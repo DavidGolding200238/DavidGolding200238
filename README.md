@@ -96,12 +96,9 @@ You can also contact me directly at: `dgolding237work@gmail.com`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-000000?style=for-the-badge)](https://a2002384d1a.myportfolio.com)
 
-You can view a selection of my work here:
+You can view a selection of my work to show cases my UX and Development works along with my 3D Designs and Game Development:
 
-- Interface and interaction design pieces
-- UX-driven projects with process and rationale
-- Frontend builds aligned with the visual and UX direction
-- Systems where I handled both UX and development responsibilities
+
 
 Direct link: https://a2002384d1a.myportfolio.com
 
