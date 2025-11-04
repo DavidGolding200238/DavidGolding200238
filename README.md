@@ -86,5 +86,8 @@ Right now I am focused on:
 
 ## Contact
 
-If you want to discuss a project, a system, or an idea, I am open to conversation and collaboration.
+If you want to discuss a project, idea, or collaboration, email is the best way to reach me.
 
+[![Email](https://img.shields.io/badge/Email-dgolding237work%40gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:dgolding237work@gmail.com)
+
+You can also contact me directly at: `dgolding237work@gmail.com`
