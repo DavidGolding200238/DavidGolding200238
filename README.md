@@ -91,3 +91,17 @@ If you want to discuss a project, idea, or collaboration, email is the best way 
 [![Email](https://img.shields.io/badge/Email-dgolding237work%40gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:dgolding237work@gmail.com)
 
 You can also contact me directly at: `dgolding237work@gmail.com`
+
+## Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-000000?style=for-the-badge)](https://a2002384d1a.myportfolio.com)
+
+You can view a selection of my work here:
+
+- Interface and interaction design pieces
+- UX-driven projects with process and rationale
+- Frontend builds aligned with the visual and UX direction
+- Systems where I handled both UX and development responsibilities
+
+Direct link: https://a2002384d1a.myportfolio.com
+
