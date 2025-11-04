@@ -1,16 +1,90 @@
-## Hi there 👋
+# David Golding
 
-<!--
-**DavidGolding200238/DavidGolding200238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Double major in Interactive Development and User Experience Design  
+Open Window Institute
 
-Here are some ideas to get you started:
+I like solving real problems, building systems, and creating interfaces that follow the “rule of cool” without sacrificing usability. My work balances strong visuals with clarity, practicality, and a solid understanding of the audience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am comfortable experimenting, testing, and iterating. I do the research, try new approaches, and refine until the solution is both effective and maintainable.
+
+---
+
+## About Me
+
+I work at the intersection of development and user experience. My background combines:
+
+- Interactive development and frontend engineering
+- User experience design and research
+- System thinking and structured problem solving
+
+I care about:
+
+- Code that is understandable, not just “clever”
+- Interfaces that stay usable under pressure, not only in ideal scenarios
+- Design decisions based on context, constraints, and the people using the product
+
+---
+
+## Development Approach
+
+- User-centred thinking: features are driven by real needs, not just what is easy to code.
+- Systemic thinking: I look at flows, edge cases, and how parts interact, not just individual screens.
+- Iteration and validation: I prefer to prototype, test, and adjust rather than assume I am right the first time.
+- Practical experimentation: I am not afraid to explore new tools and patterns, as long as the end result is stable and understandable.
+
+---
+
+## Tech Stack
+
+### Frontend Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+
+### Backend and Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+
+### Design and UX
+
+![UX Design](https://img.shields.io/badge/UX_Design-000000?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF)
+
+### Other Experience
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=FFFFFF)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF)
+
+---
+
+## Featured Work
+
+My projects focus on combining solid engineering with intentional UX. Pinned repositories on my profile highlight:
+
+- React.js applications using component-based architecture and clean state management
+- Full stack development with frontend and backend integrated into coherent systems
+- Database design with MySQL, including schema design and query efficiency
+- UX design and research integrated into the development cycle, not tacked on at the end
+- End-to-end deployments, including fully deployed solutions on AWS
+
+---
+
+## Current Focus
+
+Right now I am focused on:
+
+- Deepening my understanding of my previous work to refine patterns that actually hold up over time
+- Exploring better ways to structure and organise code for clarity and reuse
+- Improving efficiency in how I approach features, from concept to deployment
+- Strengthening full stack workflows, from UX thinking through to production deployment
+
+---
+
+## Contact
+
+If you want to discuss a project, a system, or an idea, I am open to conversation and collaboration.
+
