@@ -136,6 +136,6 @@ You can view a selection of my work to show cases my UX and Development works al
 [![Adobe Portfolio](https://img.shields.io/badge/Adobe_Portfolio-View_Site-31A8FF?style=for-the-badge&logo=adobe&logoColor=FFFFFF)](https://a2002384d1a.myportfolio.com)
 
 ---
-[![Behance](https://img.shields.io/badge/Behance-View_Profile-1769FF?style=for-the-badge&logo=behance&logoColor=FFFFFF)](https://www.behance.net/davidgolding4)
+[![Behance](https://img.shields.io/badge/Behance-View_Profile-1769FF?style=for-the-badge&logo=behance&logoColor=FFFFFF)](https://www.behance.net/davidgolding6)
 
 
