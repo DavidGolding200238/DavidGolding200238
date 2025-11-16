@@ -81,54 +81,29 @@ Below are three representative projects with UI mockups.
 
 ### Billionaires E-commerce Site
 
-High-end e-commerce experience for luxury products, focused on clear navigation, trust signals, and fast decision-making.
-
-**What I did**
-
-- UX flows and information architecture for browsing and checkout
-- UI design for product listing, product detail, and cart/checkout
-- Attention to hierarchy, readability, and perceived quality
-
 **Key screens**
 
-![Billionaires E-commerce – Screen 1](./Bill1.png)  
-![Billionaires E-commerce – Screen 2](./Bill2.png)
+![Billionaires E-commerce – Screen 1](./mockups/Bill1.png)  
+![Billionaires E-commerce – Screen 2](./mockups/Bill2.png)
 
 ---
 
 ### ThunderStats
 
-Analytics dashboard for tracking product performance and revenue, designed for quick scanning and deeper drill-down.
-
-**What I did**
-
-- Designed layout for charts, filters, and tables
-- Worked on hierarchy so key metrics are visible at a glance
-- Considered edge cases like empty states and loading states
-
 **Key screens**
 
-![ThunderStats – Screen 1](./Thunder1.png)  
-![ThunderStats – Screen 2](./Thunder2.png)
+![ThunderStats – Screen 1](./mockups/Thunder1.png)  
+![ThunderStats – Screen 2](./mockups/Thunder2.png)
 
 ---
 
 ### GameGrid GG
 
-Gaming discovery and library management interface focusing on quick browsing and rich game details.
-
-**What I did**
-
-- Flows for browsing, searching, and saving games
-- UI for game cards, detail views, and user profiles
-- Balancing visual flair with clarity and readability
-
 **Key screens**
 
-![GameGrid GG – Screen 1](./GG1.png)  
-![GameGrid GG – Screen 2](./GG2.png)  
-![GameGrid GG – Screen 3](./GG3.png)
-
+![GameGrid GG – Screen 1](./mockups/GG1.png)  
+![GameGrid GG – Screen 2](./mockups/GG2.png)  
+![GameGrid GG – Screen 3](./mockups/GG3.png)
 ---
 
 ## Current Focus
