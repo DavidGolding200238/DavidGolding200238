@@ -168,13 +168,14 @@ React and TypeScript in Electron. C# and ASP.NET Core on the API. PostgreSQL, JW
 
 ---
 
-## Year Two Work
+<details>
+<summary><strong>Year Two Work</strong></summary>
 
-Foundation projects. Full-stack web, dashboards, and UX-led product work that led into the third-year build.
-
----
+Foundation work from second year. React apps, a dashboard, an e-commerce build, MySQL, and an AWS deploy. This is what led into the third year projects above.
 
 ### GameGrid GG
+
+A full stack gaming platform. Game discovery, community posts, news, accounts. React and TypeScript on the front. Express and TypeScript on the API. MySQL, JWT auth, S3 uploads. Deployed on AWS.
 
 **Key screens**
 
@@ -186,9 +187,9 @@ Foundation projects. Full-stack web, dashboards, and UX-led product work that le
   <a href="https://github.com/DavidGolding200238/GamerGrid-2.0"><img src="https://img.shields.io/badge/See_the_full_picture-181717?style=for-the-badge&logo=github&logoColor=white" alt="See the full picture" /></a>
 </p>
 
----
-
 ### ThunderStats
+
+A stats dashboard built in JavaScript. Charts, filters and a UI meant to stay readable when there is a lot of data on screen.
 
 **Key screens**
 
@@ -199,14 +200,20 @@ Foundation projects. Full-stack web, dashboards, and UX-led product work that le
   <a href="https://github.com/DavidGolding200238/David-Golding-200238-DV200S1F1-ThunderStats_V2.2"><img src="https://img.shields.io/badge/See_the_full_picture-181717?style=for-the-badge&logo=github&logoColor=white" alt="See the full picture" /></a>
 </p>
 
----
-
 ### Billionaires E-commerce Site
+
+An e-commerce front end. Product pages, cart flow and a high-end look. Designed in Figma and built as a site you can click through.
 
 **Key screens**
 
 ![Billionaires E-commerce – Screen 1](./mockups/Bill1.png)  
 ![Billionaires E-commerce – Screen 2](./mockups/Bill2.png)
+
+<p align="center">
+  <a href="https://a2002384d1a.myportfolio.com"><img src="https://img.shields.io/badge/See_the_full_picture-181717?style=for-the-badge&logo=github&logoColor=white" alt="See the full picture" /></a>
+</p>
+
+</details>
 
 ---
 
