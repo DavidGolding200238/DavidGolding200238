@@ -85,9 +85,9 @@ My third-year projects focus on combining solid engineering with intentional UX.
 
 <p align="center"><strong>A digital pet that dies when you doomscroll.</strong></p>
 
-Screen time apps show you a number and hope you care. Doomagotchi makes the cost feel real. You pick a pet. You name it. Then your actual Instagram, TikTok, YouTube, X and the rest start eating its health. Stay under the limit and it recovers. Keep scrolling and it gets sick. Hit zero and it goes to the Graveyard with an epitaph.
+Most screen time apps show you a number. This one gives you a pet. You pick Nugget, Waddles or Spino, give it a name, and your real time on Instagram, TikTok, YouTube and X starts affecting its health. Stay under the limit and it recovers. Go over and it gets sick. Hit zero and it ends up in the Graveyard.
 
-Built for Android with Expo, React Native and TypeScript. Firebase for accounts and pet data. Real usage stats from the phone, not fake sliders. Background tasks keep the pet alive or dying even when the app is closed. Challenges and badges lock in sequence so you actually have to earn them.
+Android app. Expo, React Native, TypeScript, Firebase. Usage comes off the phone. The pet still updates when the app is closed.
 
 <h3 align="center">Meet the pets</h3>
 
@@ -111,7 +111,7 @@ Built for Android with Expo, React Native and TypeScript. Firebase for accounts 
   </tr>
 </table>
 
-<p align="center">Each one has happy, sick and dead states. You do not get a revive button. That was the point.</p>
+<p align="center">Happy, sick and dead states. No revive button.</p>
 
 <h3 align="center">Key screens</h3>
 
@@ -124,7 +124,11 @@ Built for Android with Expo, React Native and TypeScript. Firebase for accounts 
   <img src="https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/Mock%20ups/Cemetry.png" alt="Doomagotchi Graveyard" width="240" />
 </p>
 
-<p align="center">Repo: <a href="https://github.com/DavidGolding200238/Doomagotchi">Doomagotchi</a></p>
+<p align="center">
+  <a href="https://github.com/DavidGolding200238/Doomagotchi"><img src="https://img.shields.io/badge/Open_the_full_project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open the full project" /></a>
+</p>
+
+<p align="center">Code, challenges, graveyard logic and the demo videos are in the repo.</p>
 
 ---
 
@@ -140,15 +144,13 @@ Screenshots coming soon.
   <img src="https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/Cover.png" alt="Projello" width="100%" />
 </p>
 
-<p align="center"><strong>A project tool that is actually nice to open.</strong></p>
+<p align="center"><strong>A project app that does not feel like admin software.</strong></p>
 
-Projello is a desktop app for running a small construction business. Projects, people, clients, progress. The brief was simple. Keep track of the work without the software feeling like homework.
+Projello helps a small construction business keep jobs, clients and workers in one place. William Basson was the client. He wanted to see what was going on across his work without opening something dry and overloaded.
 
-The client was William Basson. He needed a way to see what was happening across jobs without living inside a boring admin tool. Team Cepression built it for Interactive Development 300.
+Team Cepression built it for Interactive Development 300. Sage green, simple screens, still a full desktop app. Projects split into milestones and tasks. Workers check in. Photos attach to the job. Different roles see different views. Updates and calls use SignalR and WebRTC.
 
-The look is sage green on purpose. Soft, a bit playful, still readable. Under that it is a real system. Projects break into milestones and tasks. Workers check in. Photos sit on the job as proof. Different roles see different things. Live updates and calls run through SignalR and WebRTC.
-
-React and TypeScript in Electron. ASP.NET Core and C# on the API. PostgreSQL, JWT, two factor auth, Docker.
+React and TypeScript in Electron. C# and ASP.NET Core on the API. PostgreSQL, JWT, two factor auth, Docker.
 
 <h3 align="center">Key screens</h3>
 
@@ -156,7 +158,11 @@ React and TypeScript in Electron. ASP.NET Core and C# on the API. PostgreSQL, JW
 ![Projello – Clients](https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/MClients.png)  
 ![Projello – Add Project](https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/AddProject.png)
 
-<p align="center">Repo: <a href="https://github.com/AngievR05/Projello-Management-System">Projello</a></p>
+<p align="center">
+  <a href="https://github.com/AngievR05/Projello-Management-System"><img src="https://img.shields.io/badge/Open_the_full_project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open the full project" /></a>
+</p>
+
+<p align="center">Architecture, API, Electron app and the rest of the screens live in the team repo.</p>
 
 ---
 
