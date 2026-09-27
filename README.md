@@ -169,11 +169,7 @@ React and TypeScript in Electron. C# and ASP.NET Core on the API. PostgreSQL, JW
 ---
 
 <details>
-<summary>
-<p align="center">
-<img src="https://img.shields.io/badge/Year_Two_Work-000000?style=for-the-badge" alt="Year Two Work" />
-</p>
-</summary>
+<summary><h2>Year Two Work</h2></summary>
 
 ### GameGrid GG
 
