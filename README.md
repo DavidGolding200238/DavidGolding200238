@@ -84,10 +84,16 @@ A digital pet that dies when you doomscroll. Android app built with Expo and Rea
 
 **Key screens**
 
-![Doomagotchi – Login](https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/Mock%20ups/Login%20Page%201.png)  
-![Doomagotchi – Home](https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/Mock%20ups/Main%20Page.png)  
-![Doomagotchi – Stats](https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/Mock%20ups/Stats%20Page.png)  
-![Doomagotchi – Graveyard](https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/Mock%20ups/Cemetry.png)
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/Mock%20ups/Login%20Page%201.png" alt="Doomagotchi Login" width="280" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/Mock%20ups/Main%20Page.png" alt="Doomagotchi Home" width="280" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/Mock%20ups/Stats%20Page.png" alt="Doomagotchi Stats" width="280" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/Mock%20ups/Cemetry.png" alt="Doomagotchi Graveyard" width="280" /></td>
+  </tr>
+</table>
 
 Repo: [Doomagotchi](https://github.com/DavidGolding200238/Doomagotchi)
 
