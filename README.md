@@ -78,9 +78,27 @@ My third-year projects focus on combining solid engineering with intentional UX.
 
 ---
 
-### Doomagotchi
+### Doomagotchi <img src="https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/assets/images/Logo%20Skull.png" alt="Skull logo" width="42" />
 
-A digital pet that dies when you doomscroll. Android app built with Expo and React Native. Real device usage drives health, challenges, badges, and a graveyard. Firebase handles auth and data. Builds ship through EAS.
+**A digital pet that dies when you doomscroll.**
+
+Screen time apps show you a number and hope you care. Doomagotchi makes the cost feel real. You pick a pet. You name it. Then your actual Instagram, TikTok, YouTube, X and the rest start eating its health. Stay under the limit and it recovers. Keep scrolling and it gets sick. Hit zero and it goes to the Graveyard with an epitaph.
+
+Built for Android with Expo, React Native and TypeScript. Firebase for accounts and pet data. Real usage stats from the phone, not fake sliders. Background tasks keep the pet alive or dying even when the app is closed. Challenges and badges lock in sequence so you actually have to earn them.
+
+**Meet the pets**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/assets/pets/Panda/Panda%20Idle.gif" alt="Nugget" width="110" />
+  <img src="https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/assets/pets/Duck/Duck%20Idle.gif" alt="Waddles" width="110" />
+  <img src="https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/assets/pets/Spinosaurus/Idle%20Spino.gif" alt="Spino" width="110" />
+</p>
+
+<p align="center">
+  <strong>Nugget</strong> &nbsp;&nbsp;&nbsp; <strong>Waddles</strong> &nbsp;&nbsp;&nbsp; <strong>Spino</strong>
+</p>
+
+Each one has happy, sick and dead states. You do not get a revive button. That was the point.
 
 **Key screens**
 
@@ -107,9 +125,17 @@ Screenshots coming soon.
 
 ### Projello
 
-Lightweight project management system for construction teams. Built with Team Cepression for Interactive Development 300.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/Cover.png" alt="Projello cover" width="280" />
+</p>
 
-React and TypeScript frontend in Electron. ASP.NET Core and C# API. PostgreSQL, JWT, two-factor auth, SignalR, and WebRTC for on-site updates and calls.
+**Lightweight project management, built for people who work on site.**
+
+Most PM tools are bloated office software pretending they belong on a construction site. Projello was built the other way around. A real client, William Basson, runs multiple teams and physical sites at once. He needed something fast enough for a foreman with dusty hands, not another enterprise dashboard.
+
+Team Cepression made it for Interactive Development 300. Sage green on purpose, so it still reads in harsh outdoor light. Hierarchy is project, milestone, task. Workers check in. Photos prove the work happened. Clients see what they are allowed to see. Calls run through SignalR and WebRTC so the office and the site stay on the same page.
+
+React and TypeScript inside Electron. ASP.NET Core and C# on the API. PostgreSQL, JWT, two factor auth, Docker.
 
 **Key screens**
 
