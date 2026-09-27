@@ -124,7 +124,9 @@ Built for Android with Expo, React Native and TypeScript. Firebase for accounts 
   <img src="https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/Mock%20ups/Cemetry.png" alt="Doomagotchi Graveyard" width="240" />
 </p>
 
-<p align="center">Repo: <a href="https://github.com/DavidGolding200238/Doomagotchi">Doomagotchi</a></p>
+<p align="center">
+  <a href="https://github.com/DavidGolding200238/Doomagotchi"><img src="https://img.shields.io/badge/See_the_full_picture-181717?style=for-the-badge&logo=github&logoColor=white" alt="See the full picture" /></a>
+</p>
 
 ---
 
@@ -133,6 +135,10 @@ Built for Android with Expo, React Native and TypeScript. Firebase for accounts 
 Spoken D&D table aid for Android. Expo and React Native, with expo-speech, custom navigation, and a themed interface built for use at the table.
 
 Screenshots coming soon.
+
+<p align="center">
+  <a href="https://github.com/DavidGolding200238/Arkane-Aid"><img src="https://img.shields.io/badge/See_the_full_picture-181717?style=for-the-badge&logo=github&logoColor=white" alt="See the full picture" /></a>
+</p>
 
 ---
 
@@ -156,13 +162,9 @@ React and TypeScript in Electron. C# and ASP.NET Core on the API. PostgreSQL, JW
 ![Projello – Clients](https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/MClients.png)  
 ![Projello – Add Project](https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/AddProject.png)
 
-<h3 align="center">Full project</h3>
-
 <p align="center">
   <a href="https://github.com/AngievR05/Projello-Management-System"><img src="https://img.shields.io/badge/See_the_full_picture-181717?style=for-the-badge&logo=github&logoColor=white" alt="See the full picture" /></a>
 </p>
-
-<p align="center">Code, architecture and the rest of the product.</p>
 
 ---
 
@@ -180,6 +182,10 @@ Foundation projects. Full-stack web, dashboards, and UX-led product work that le
 ![GameGrid GG – Screen 2](./mockups/GG2.png)  
 ![GameGrid GG – Screen 3](./mockups/GG3.png)
 
+<p align="center">
+  <a href="https://github.com/DavidGolding200238/GamerGrid-2.0"><img src="https://img.shields.io/badge/See_the_full_picture-181717?style=for-the-badge&logo=github&logoColor=white" alt="See the full picture" /></a>
+</p>
+
 ---
 
 ### ThunderStats
@@ -188,6 +194,10 @@ Foundation projects. Full-stack web, dashboards, and UX-led product work that le
 
 ![ThunderStats – Screen 1](./mockups/Thunder1.png)  
 ![ThunderStats – Screen 2](./mockups/Thunder2.png)
+
+<p align="center">
+  <a href="https://github.com/DavidGolding200238/David-Golding-200238-DV200S1F1-ThunderStats_V2.2"><img src="https://img.shields.io/badge/See_the_full_picture-181717?style=for-the-badge&logo=github&logoColor=white" alt="See the full picture" /></a>
+</p>
 
 ---
 
