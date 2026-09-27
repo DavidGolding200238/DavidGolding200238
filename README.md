@@ -78,29 +78,42 @@ My third-year projects focus on combining solid engineering with intentional UX.
 
 ---
 
-### Doomagotchi <img src="https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/assets/images/Logo%20Skull.png" alt="Skull logo" width="42" />
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/assets/images/Logo%20Skull.png" alt="Skull" height="36" />
+  &nbsp;Doomagotchi
+</h2>
 
-**A digital pet that dies when you doomscroll.**
+<p align="center"><strong>A digital pet that dies when you doomscroll.</strong></p>
 
 Screen time apps show you a number and hope you care. Doomagotchi makes the cost feel real. You pick a pet. You name it. Then your actual Instagram, TikTok, YouTube, X and the rest start eating its health. Stay under the limit and it recovers. Keep scrolling and it gets sick. Hit zero and it goes to the Graveyard with an epitaph.
 
 Built for Android with Expo, React Native and TypeScript. Firebase for accounts and pet data. Real usage stats from the phone, not fake sliders. Background tasks keep the pet alive or dying even when the app is closed. Challenges and badges lock in sequence so you actually have to earn them.
 
-**Meet the pets**
+<h3 align="center">Meet the pets</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/assets/pets/Panda/Panda%20Idle.gif" alt="Nugget" width="110" />
-  <img src="https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/assets/pets/Duck/Duck%20Idle.gif" alt="Waddles" width="110" />
-  <img src="https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/assets/pets/Spinosaurus/Idle%20Spino.gif" alt="Spino" width="110" />
-</p>
+<table align="center" bgcolor="#ffffff">
+  <tr>
+    <td align="center" width="180" bgcolor="#ffffff">
+      <img src="https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/assets/pets/Panda/Panda%20Idle.gif" alt="Nugget" width="96" />
+      <br/>
+      <strong>Nugget</strong>
+    </td>
+    <td align="center" width="180" bgcolor="#ffffff">
+      <img src="https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/assets/pets/Duck/Duck%20Idle.gif" alt="Waddles" width="96" />
+      <br/>
+      <strong>Waddles</strong>
+    </td>
+    <td align="center" width="180" bgcolor="#ffffff">
+      <img src="https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/assets/pets/Spinosaurus/Idle%20Spino.gif" alt="Spino" width="96" />
+      <br/>
+      <strong>Spino</strong>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <strong>Nugget</strong> &nbsp;&nbsp;&nbsp; <strong>Waddles</strong> &nbsp;&nbsp;&nbsp; <strong>Spino</strong>
-</p>
+<p align="center">Each one has happy, sick and dead states. You do not get a revive button. That was the point.</p>
 
-Each one has happy, sick and dead states. You do not get a revive button. That was the point.
-
-**Key screens**
+<h3 align="center">Key screens</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/Mock%20ups/Login%20Page%201.png" alt="Doomagotchi Login" width="240" />
@@ -111,7 +124,7 @@ Each one has happy, sick and dead states. You do not get a revive button. That w
   <img src="https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/Mock%20ups/Cemetry.png" alt="Doomagotchi Graveyard" width="240" />
 </p>
 
-Repo: [Doomagotchi](https://github.com/DavidGolding200238/Doomagotchi)
+<p align="center">Repo: <a href="https://github.com/DavidGolding200238/Doomagotchi">Doomagotchi</a></p>
 
 ---
 
@@ -123,13 +136,13 @@ Screenshots coming soon.
 
 ---
 
-### Projello
+<h2 align="center">Projello</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/Cover.png" alt="Projello cover" width="280" />
+  <img src="https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/Cover.png" alt="Projello cover" width="220" />
 </p>
 
-**Lightweight project management, built for people who work on site.**
+<p align="center"><strong>Lightweight project management, built for people who work on site.</strong></p>
 
 Most PM tools are bloated office software pretending they belong on a construction site. Projello was built the other way around. A real client, William Basson, runs multiple teams and physical sites at once. He needed something fast enough for a foreman with dusty hands, not another enterprise dashboard.
 
@@ -137,13 +150,13 @@ Team Cepression made it for Interactive Development 300. Sage green on purpose, 
 
 React and TypeScript inside Electron. ASP.NET Core and C# on the API. PostgreSQL, JWT, two factor auth, Docker.
 
-**Key screens**
+<h3 align="center">Key screens</h3>
 
 ![Projello – Projects](https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/MProjects.png)  
 ![Projello – Clients](https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/MClients.png)  
 ![Projello – Add Project](https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/AddProject.png)
 
-Repo: [Projello](https://github.com/AngievR05/Projello-Management-System)
+<p align="center">Repo: <a href="https://github.com/AngievR05/Projello-Management-System">Projello</a></p>
 
 ---
 
