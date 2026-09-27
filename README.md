@@ -136,17 +136,17 @@ Screenshots coming soon.
 
 ---
 
-<h2 align="center">Projello</h2>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/Cover.png" alt="Projello cover" width="220" />
+  <img src="https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/Cover.png" alt="Projello" width="100%" />
 </p>
 
-<p align="center"><strong>Lightweight project management, built for people who work on site.</strong></p>
+<p align="center"><strong>Project management that belongs on a building site, not in a boardroom.</strong></p>
 
-Most PM tools are bloated office software pretending they belong on a construction site. Projello was built the other way around. A real client, William Basson, runs multiple teams and physical sites at once. He needed something fast enough for a foreman with dusty hands, not another enterprise dashboard.
+Asana and Jira assume you are sitting at a desk. Projello assumes you are standing in the sun with a phone in one hand and a crew that needs an answer now.
 
-Team Cepression made it for Interactive Development 300. Sage green on purpose, so it still reads in harsh outdoor light. Hierarchy is project, milestone, task. Workers check in. Photos prove the work happened. Clients see what they are allowed to see. Calls run through SignalR and WebRTC so the office and the site stay on the same page.
+The brief came from a real contractor, William Basson. He runs more than one site at a time and the tools on the market were either toys or enterprise sludge. Team Cepression built him a desktop app for Interactive Development 300. Sage green so the UI still reads outside. A bear on the cover because the brand needed a face, not another generic grid logo.
+
+A job is a project, then milestones, then tasks. Workers get a thirty second check in. Photos are the proof the work happened. Clients only see the layer meant for them. Admin, foreman, worker, client. If the site and the office need to talk, the call goes through SignalR and WebRTC instead of a WhatsApp group that dies in a week.
 
 React and TypeScript inside Electron. ASP.NET Core and C# on the API. PostgreSQL, JWT, two factor auth, Docker.
 
