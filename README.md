@@ -132,13 +132,7 @@ Built for Android with Expo, React Native and TypeScript. Firebase for accounts 
 
 ### Arkane Aid
 
-Spoken D&D table aid for Android. Expo and React Native, with expo-speech, custom navigation, and a themed interface built for use at the table.
-
-Screenshots coming soon.
-
-<p align="center">
-  <a href="https://github.com/DavidGolding200238/Arkane-Aid"><img src="https://img.shields.io/badge/See_the_full_picture-181717?style=for-the-badge&logo=github&logoColor=white" alt="See the full picture" /></a>
-</p>
+Coming soon.
 
 ---
 
