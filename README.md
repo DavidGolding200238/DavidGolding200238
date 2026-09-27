@@ -234,13 +234,6 @@ If you want to discuss a project, idea, or collaboration, email is the best way 
 
 You can also contact me directly at: `dgolding237work@gmail.com`
 
-## Portfolio
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-000000?style=for-the-badge)](https://a2002384d1a.myportfolio.com)
-
-You can view a selection of my work to show cases my UX and Development works along with my 3D Designs and Game Development:
-
-[![Adobe Portfolio](https://img.shields.io/badge/Adobe_Portfolio-View_Site-31A8FF?style=for-the-badge&logo=adobe&logoColor=FFFFFF)](https://a2002384d1a.myportfolio.com)
-
 ---
+
 [![Behance](https://img.shields.io/badge/Behance-View_Profile-1769FF?style=for-the-badge&logo=behance&logoColor=FFFFFF)](https://www.behance.net/davidgolding6)
