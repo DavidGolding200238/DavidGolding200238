@@ -1,7 +1,7 @@
 # David Golding
 
-Double major in Interactive Development and User Experience Design  
-Open Window Institute · Third year
+Interactive Development in progress · UX major complete  
+Open Window Institute · Fourth year
 
 I like solving real problems, building systems, and creating interfaces that follow the “rule of cool” without sacrificing usability. My work balances strong visuals with clarity, practicality, and a solid understanding of the audience.
 
@@ -72,9 +72,35 @@ I care about:
 
 ---
 
-## Featured Work · Third Year
+## Recent Work
 
-My third-year projects focus on combining solid engineering with intentional UX. These are the pieces I want reviewed first.
+These are the pieces I want reviewed first.
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/Cover.png" alt="Projello" width="100%" />
+</p>
+
+<p align="center"><strong>A project app that does not feel like admin software.</strong></p>
+
+Projello helps a small construction business keep jobs, clients and workers in one place. William Basson was the client. He wanted to see what was going on across his work without opening something dry and overloaded.
+
+Team Cepression built it for Interactive Development 300. Angie van Rooyen, Xander Poalses, Francois le Roux and I. I worked across the product with them. Design, frontend, the C# API, the database, auth, realtime and the Electron app.
+
+Sage green, simple screens, still a full desktop app. Projects split into milestones and tasks. Workers check in. Photos attach to the job. Different roles see different views. Updates and calls use SignalR and WebRTC.
+
+React and TypeScript in Electron. C# and ASP.NET Core on the API. PostgreSQL, JWT, two factor auth, Docker.
+
+<h3 align="center">Key screens</h3>
+
+![Projello – Projects](https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/MProjects.png)  
+![Projello – Clients](https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/MClients.png)  
+![Projello – Add Project](https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/AddProject.png)
+
+<p align="center">
+  <a href="https://github.com/AngievR05/Projello-Management-System"><img src="https://img.shields.io/badge/See_the_full_picture-181717?style=for-the-badge&logo=github&logoColor=white" alt="See the full picture" /></a>
+</p>
 
 ---
 
@@ -133,32 +159,6 @@ Built for Android with Expo, React Native and TypeScript. Firebase for accounts 
 ### Arkane Aid
 
 Coming soon.
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/Cover.png" alt="Projello" width="100%" />
-</p>
-
-<p align="center"><strong>A project app that does not feel like admin software.</strong></p>
-
-Projello helps a small construction business keep jobs, clients and workers in one place. William Basson was the client. He wanted to see what was going on across his work without opening something dry and overloaded.
-
-Team Cepression built it for Interactive Development 300. Angie van Rooyen, Xander Poalses, Francois le Roux and I. I worked across the product with them. Design, frontend, the C# API, the database, auth, realtime and the Electron app.
-
-Sage green, simple screens, still a full desktop app. Projects split into milestones and tasks. Workers check in. Photos attach to the job. Different roles see different views. Updates and calls use SignalR and WebRTC.
-
-React and TypeScript in Electron. C# and ASP.NET Core on the API. PostgreSQL, JWT, two factor auth, Docker.
-
-<h3 align="center">Key screens</h3>
-
-![Projello – Projects](https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/MProjects.png)  
-![Projello – Clients](https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/MClients.png)  
-![Projello – Add Project](https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/AddProject.png)
-
-<p align="center">
-  <a href="https://github.com/AngievR05/Projello-Management-System"><img src="https://img.shields.io/badge/See_the_full_picture-181717?style=for-the-badge&logo=github&logoColor=white" alt="See the full picture" /></a>
-</p>
 
 ---
 
