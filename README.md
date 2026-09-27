@@ -144,7 +144,7 @@ Screenshots coming soon.
 
 Projello is a desktop app for running a small construction business. Projects, people, clients, progress. The brief was simple. Keep track of the work without the software feeling like homework.
 
-Our client for the module was William Basson, who is also our lecturer. He needed a way to see what was happening across jobs without living inside a boring admin tool. Team Cepression built it for Interactive Development 300.
+The client was William Basson. He needed a way to see what was happening across jobs without living inside a boring admin tool. Team Cepression built it for Interactive Development 300.
 
 The look is sage green on purpose. Soft, a bit playful, still readable. Under that it is a real system. Projects break into milestones and tasks. Workers check in. Photos sit on the job as proof. Different roles see different things. Live updates and calls run through SignalR and WebRTC.
 
