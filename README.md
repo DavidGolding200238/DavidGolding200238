@@ -168,14 +168,18 @@ React and TypeScript in Electron. C# and ASP.NET Core on the API. PostgreSQL, JW
 
 ---
 
-<details>
-<summary><strong>Year Two Work</strong></summary>
+<div align="center">
 
-Foundation work from second year. React apps, a dashboard, an e-commerce build, MySQL, and an AWS deploy. This is what led into the third year projects above.
+<details>
+<summary><img src="https://img.shields.io/badge/Year_Two_Work-000000?style=for-the-badge" alt="Year Two Work" /></summary>
+
+</div>
+
+Second year work. Open the button above for GameGrid, ThunderStats and Billionaire$.
 
 ### GameGrid GG
 
-A full stack gaming platform. Game discovery, community posts, news, accounts. React and TypeScript on the front. Express and TypeScript on the API. MySQL, JWT auth, S3 uploads. Deployed on AWS.
+A gaming site with a catalogue, a community hub and a news feed. Search and filter games through the RAWG API. Accounts use JWT. Communities can post, comment and like. News comes from NewsAPI. Uploads go to S3 in production. React and TypeScript on the front. Express and TypeScript on the API. MySQL. Deployed on AWS Elastic Beanstalk.
 
 **Key screens**
 
@@ -189,7 +193,7 @@ A full stack gaming platform. Game discovery, community posts, news, accounts. R
 
 ### ThunderStats
 
-A stats dashboard built in JavaScript. Charts, filters and a UI meant to stay readable when there is a lot of data on screen.
+A War Thunder vehicle analytics app. Pulls tank data from the unofficial War Thunder API, then lets you filter by nation, type and battle rating. Compare two tanks on bar, pie and radar charts. A timeline page tracks BR, repair cost and rank across updates. Landing page uses a custom SVG donut for tank types. React, Chart.js, Axios.
 
 **Key screens**
 
@@ -200,9 +204,9 @@ A stats dashboard built in JavaScript. Charts, filters and a UI meant to stay re
   <a href="https://github.com/DavidGolding200238/David-Golding-200238-DV200S1F1-ThunderStats_V2.2"><img src="https://img.shields.io/badge/See_the_full_picture-181717?style=for-the-badge&logo=github&logoColor=white" alt="See the full picture" /></a>
 </p>
 
-### Billionaires E-commerce Site
+### Billionaire$ Ecommerce
 
-An e-commerce front end. Product pages, cart flow and a high-end look. Designed in Figma and built as a site you can click through.
+A luxury marketplace built with Team Code Blooded. Victor du Preez, Rikus Pretorius and I. Users create an account, list high end products from a dashboard, browse and search the catalogue, comment, flag listings and add items to a cart. React and Vite on the front. Node, Express and MongoDB on the back. Tailwind and Radix for the UI.
 
 **Key screens**
 
@@ -210,7 +214,7 @@ An e-commerce front end. Product pages, cart flow and a high-end look. Designed 
 ![Billionaires E-commerce – Screen 2](./mockups/Bill2.png)
 
 <p align="center">
-  <a href="https://a2002384d1a.myportfolio.com"><img src="https://img.shields.io/badge/See_the_full_picture-181717?style=for-the-badge&logo=github&logoColor=white" alt="See the full picture" /></a>
+  <a href="https://github.com/victordupreez0/Code_Blooded_DV200_S1SA2_Ecommerce_App"><img src="https://img.shields.io/badge/See_the_full_picture-181717?style=for-the-badge&logo=github&logoColor=white" alt="See the full picture" /></a>
 </p>
 
 </details>
