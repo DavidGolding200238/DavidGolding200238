@@ -144,7 +144,7 @@ Screenshots coming soon.
 
 Projello helps a small construction business keep jobs, clients and workers in one place. William Basson was the client. He wanted to see what was going on across his work without opening something dry and overloaded.
 
-It was a Team Cepression build for Interactive Development 300. Angie van Rooyen, Xander Poalses, Francois le Roux and I. I worked across the whole product with them. Design, frontend, the C# API, the database, auth, realtime and getting the Electron app to actually run. Commits in the team repo do not show the full split. That is how the group worked. We passed work around and I stayed in all of it.
+Team Cepression built it for Interactive Development 300. Angie van Rooyen, Xander Poalses, Francois le Roux and I. I worked across the product with them. Design, frontend, the C# API, the database, auth, realtime and the Electron app.
 
 Sage green, simple screens, still a full desktop app. Projects split into milestones and tasks. Workers check in. Photos attach to the job. Different roles see different views. Updates and calls use SignalR and WebRTC.
 
@@ -156,11 +156,13 @@ React and TypeScript in Electron. C# and ASP.NET Core on the API. PostgreSQL, JW
 ![Projello – Clients](https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/MClients.png)  
 ![Projello – Add Project](https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/AddProject.png)
 
+<h3 align="center">Full project</h3>
+
 <p align="center">
-  <a href="https://github.com/AngievR05/Projello-Management-System"><img src="https://img.shields.io/badge/Open_the_full_project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open the full project" /></a>
+  <a href="https://github.com/AngievR05/Projello-Management-System"><img src="https://img.shields.io/badge/See_the_full_picture-181717?style=for-the-badge&logo=github&logoColor=white" alt="See the full picture" /></a>
 </p>
 
-<p align="center">The team repo has the architecture, the API, the Electron app and the rest of the screens.</p>
+<p align="center">Code, architecture and the rest of the product.</p>
 
 ---
 
