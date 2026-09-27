@@ -140,15 +140,15 @@ Screenshots coming soon.
   <img src="https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/Cover.png" alt="Projello" width="100%" />
 </p>
 
-<p align="center"><strong>Project management that belongs on a building site, not in a boardroom.</strong></p>
+<p align="center"><strong>A project tool that is actually nice to open.</strong></p>
 
-Asana and Jira assume you are sitting at a desk. Projello assumes you are standing in the sun with a phone in one hand and a crew that needs an answer now.
+Projello is a desktop app for running a small construction business. Projects, people, clients, progress. The brief was simple. Keep track of the work without the software feeling like homework.
 
-The brief came from a real contractor, William Basson. He runs more than one site at a time and the tools on the market were either toys or enterprise sludge. Team Cepression built him a desktop app for Interactive Development 300. Sage green so the UI still reads outside. A bear on the cover because the brand needed a face, not another generic grid logo.
+Our client for the module was William Basson, who is also our lecturer. He needed a way to see what was happening across jobs without living inside a boring admin tool. Team Cepression built it for Interactive Development 300.
 
-A job is a project, then milestones, then tasks. Workers get a thirty second check in. Photos are the proof the work happened. Clients only see the layer meant for them. Admin, foreman, worker, client. If the site and the office need to talk, the call goes through SignalR and WebRTC instead of a WhatsApp group that dies in a week.
+The look is sage green on purpose. Soft, a bit playful, still readable. Under that it is a real system. Projects break into milestones and tasks. Workers check in. Photos sit on the job as proof. Different roles see different things. Live updates and calls run through SignalR and WebRTC.
 
-React and TypeScript inside Electron. ASP.NET Core and C# on the API. PostgreSQL, JWT, two factor auth, Docker.
+React and TypeScript in Electron. ASP.NET Core and C# on the API. PostgreSQL, JWT, two factor auth, Docker.
 
 <h3 align="center">Key screens</h3>
 
