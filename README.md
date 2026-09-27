@@ -3,27 +3,34 @@
 Double major in Interactive Development and User Experience Design  
 Open Window Institute · Third year
 
-I build apps and interfaces people can actually use. Web, Android, desktop. I like work that looks good and still holds up when the connection is bad or the user is in a hurry.
+I like solving real problems, building systems, and creating interfaces that follow the “rule of cool” without sacrificing usability. My work balances strong visuals with clarity, practicality, and a solid understanding of the audience.
 
-Most of my time goes into making the thing real. Sketch it, test it, break it, ship a version that runs. This year that work is Doomagotchi, Arkane Aid and Projello.
+I am comfortable experimenting, testing, and iterating. I do the research, try new approaches, and refine until the solution is both effective and maintainable.
 
 ---
 
 ## About Me
 
-I come from both sides of the brief. I can sit in Figma and I can sit in the repo.
+I work at the intersection of development and user experience. My background combines:
 
-- Third year student shipping web, mobile and desktop projects
-- Full stack work in React, React Native, Node and C# / ASP.NET
-- UX training, so the research and the screens are part of the same job as the code
+- Interactive development and frontend engineering
+- User experience design and research
+- System thinking and structured problem solving
 
-I would rather write code someone else can follow than something that only looks clever. Same with UI. Pretty is fine. Usable comes first.
+I care about:
+
+- Code that is understandable, not just “clever”
+- Interfaces that stay usable under pressure, not only in ideal scenarios
+- Design decisions based on context, constraints, and the people using the product
 
 ---
 
 ## Development Approach
 
-I start with the person who has to use it, then I work back to the feature. I map the flow, the ugly edge cases, and how the pieces talk to each other. I prototype, test, change my mind, and only then lock it in. New tools are welcome if the build stays stable.
+- User-centred thinking: features are driven by real needs, not just what is easy to code.
+- Systemic thinking: I look at flows, edge cases, and how parts interact, not just individual screens.
+- Iteration and validation: I prefer to prototype, test, and adjust rather than assume I am right the first time.
+- Practical experimentation: I am not afraid to explore new tools and patterns, as long as the end result is stable and understandable.
 
 ---
 
@@ -67,13 +74,13 @@ I start with the person who has to use it, then I work back to the feature. I ma
 
 ## Featured Work · Third Year
 
-These are the projects I want people to look at first.
+My third-year projects focus on combining solid engineering with intentional UX. These are the pieces I want reviewed first.
 
 ---
 
 ### Doomagotchi
 
-A digital pet that dies when you doomscroll. Android app built with Expo and React Native. Real device usage drives health, challenges, badges and a graveyard. Firebase handles auth and data. Builds go out through EAS.
+A digital pet that dies when you doomscroll. Android app built with Expo and React Native. Real device usage drives health, challenges, badges, and a graveyard. Firebase handles auth and data. Builds ship through EAS.
 
 Screenshots coming soon.
 
@@ -83,7 +90,7 @@ Repo: [Doomagotchi](https://github.com/DavidGolding200238/Doomagotchi)
 
 ### Arkane Aid
 
-Spoken D&D table aid for Android. Expo and React Native, with expo-speech, custom navigation and a themed interface meant for the table, not a desktop browser.
+Spoken D&D table aid for Android. Expo and React Native, with expo-speech, custom navigation, and a themed interface built for use at the table.
 
 Screenshots coming soon.
 
@@ -91,9 +98,9 @@ Screenshots coming soon.
 
 ### Projello
 
-Project management for construction teams. Built with Team Cepression for Interactive Development 300.
+Lightweight project management system for construction teams. Built with Team Cepression for Interactive Development 300.
 
-React and TypeScript frontend in Electron. ASP.NET Core and C# API. PostgreSQL, JWT, two factor auth, SignalR and WebRTC for updates and calls on site.
+React and TypeScript frontend in Electron. ASP.NET Core and C# API. PostgreSQL, JWT, two-factor auth, SignalR, and WebRTC for on-site updates and calls.
 
 Repo: [Projello](https://github.com/AngievR05/Projello-Management-System)
 
@@ -101,7 +108,7 @@ Repo: [Projello](https://github.com/AngievR05/Projello-Management-System)
 
 ## Year Two Work
 
-Earlier projects. Web apps, dashboards and UX work that led into this year.
+Foundation projects. Full-stack web, dashboards, and UX-led product work that led into the third-year build.
 
 ---
 
@@ -137,16 +144,16 @@ Earlier projects. Web apps, dashboards and UX work that led into this year.
 
 Right now I am focused on:
 
-- Finishing and tightening the third year work
-- Making the path from a Figma file to a running build cleaner
-- Writing code that is easier to come back to later
-- Finding a remote junior full stack or frontend role
+- Deepening my understanding of my previous work to refine patterns that actually hold up over time
+- Exploring better ways to structure and organise code for clarity and reuse
+- Improving efficiency in how I approach features, from concept to deployment
+- Strengthening full stack workflows, from UX thinking through to production deployment
 
 ---
 
 ## Contact
 
-If you want to talk about a project or a role, email is the easiest way.
+If you want to discuss a project, idea, or collaboration, email is the best way to reach me.
 
 [![Email](https://img.shields.io/badge/Email-dgolding237work%40gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:dgolding237work@gmail.com)
 
