@@ -82,7 +82,12 @@ My third-year projects focus on combining solid engineering with intentional UX.
 
 A digital pet that dies when you doomscroll. Android app built with Expo and React Native. Real device usage drives health, challenges, badges, and a graveyard. Firebase handles auth and data. Builds ship through EAS.
 
-Screenshots coming soon.
+**Key screens**
+
+![Doomagotchi – Login](https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/Mock%20ups/Login%20Page%201.png)  
+![Doomagotchi – Home](https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/Mock%20ups/Main%20Page.png)  
+![Doomagotchi – Stats](https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/Mock%20ups/Stats%20Page.png)  
+![Doomagotchi – Graveyard](https://raw.githubusercontent.com/DavidGolding200238/Doomagotchi/Main/Mock%20ups/Cemetry.png)
 
 Repo: [Doomagotchi](https://github.com/DavidGolding200238/Doomagotchi)
 
@@ -101,6 +106,12 @@ Screenshots coming soon.
 Lightweight project management system for construction teams. Built with Team Cepression for Interactive Development 300.
 
 React and TypeScript frontend in Electron. ASP.NET Core and C# API. PostgreSQL, JWT, two-factor auth, SignalR, and WebRTC for on-site updates and calls.
+
+**Key screens**
+
+![Projello – Projects](https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/MProjects.png)  
+![Projello – Clients](https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/MClients.png)  
+![Projello – Add Project](https://raw.githubusercontent.com/AngievR05/Projello-Management-System/main/ReadmeImages/AddProject.png)
 
 Repo: [Projello](https://github.com/AngievR05/Projello-Management-System)
 
